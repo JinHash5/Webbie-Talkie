@@ -11,7 +11,7 @@ Web Application which allows multiple users to communicate live through a video 
 - Provision to mute video/audio
 - Uses UDP protocol
 
-### Setup
+## Setup
 
 Add your OpenTok credentials to the `options` hash in  `app.js`:
 ```javascript
