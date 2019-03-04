@@ -4,15 +4,15 @@ let otCore;
 console.log(x);
 if(x=="password=csi"){
   credentials1={
-    "apiKey": "46266092",
-    "sessionId": "2_MX40NjI2NjA5Mn5-MTU0OTcxNzE0MzYwNX44ZVlLLzcwTGJ2SFM3WVFSUW9qa1ZFVWZ-fg",
-    "token": "T1==cGFydG5lcl9pZD00NjI2NjA5MiZzaWc9NmUwYWNjNjBlYmNlY2UyZThiNzk4OTE3OTk2MmYxY2JhNThmODNmYjpzZXNzaW9uX2lkPTJfTVg0ME5qSTJOakE1TW41LU1UVTBPVGN4TnpFME16WXdOWDQ0WlZsTEx6Y3dUR0oyU0ZNM1dWRlNVVzlxYTFaRlZXWi1mZyZjcmVhdGVfdGltZT0xNTQ5NzE3MTg0Jm5vbmNlPTAuODA4NjExODk2MzI5MTEyNSZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTUyMzA1NTgzJmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9"
+    "apiKey": "YOUR_API_KEY",
+    "sessionId": "YOUR_SESSION_ID",
+    "token": "YOUR_TOKEN"
   }}
   else{
     credentials1={
-      "apiKey": "46266272",
-      "sessionId": "1_MX40NjI2NjI3Mn5-MTU0OTc3OTk4MjcwMH45K2pJbkxQaE9YSjBjdHN0STBpTkVnZzN-fg",
-      "token": "T1==cGFydG5lcl9pZD00NjI2NjI3MiZzaWc9ODAxYjJhMmQwZTlhMjBmNTkwNzk4ZmJlMjUwYjQ3ZDdiMDBhZjgyMzpzZXNzaW9uX2lkPTFfTVg0ME5qSTJOakkzTW41LU1UVTBPVGMzT1RrNE1qY3dNSDQ1SzJwSmJreFFhRTlZU2pCamRITjBTVEJwVGtWblp6Ti1mZyZjcmVhdGVfdGltZT0xNTQ5NzgwMDAzJm5vbmNlPTAuNzM4NzY0NzU2MTA5NDgzJnJvbGU9cHVibGlzaGVyJmV4cGlyZV90aW1lPTE1NTIzNjg0MDMmaW5pdGlhbF9sYXlvdXRfY2xhc3NfbGlzdD0="
+      "apiKey": "YOUR_API_KEY",
+      "sessionId": "YOUR_SESSION_ID",
+      "token": "YOUR_TOKEN"
     }
   }
 console.log(credentials1);
