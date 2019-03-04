@@ -2,13 +2,14 @@
 
 Web Application which allows multiple users to communicate live through a video call. 
 ## Features
- - Multi-Party Audio/Video Communication
-  - Text Chat
-  - Screen Sharing
-  - Annotation
-  - Provision to record the call and archive it.
-  - Provision to mute video/audio
-  - Uses UDP protocol
+
+- Multi-Party Audio/Video Communication
+- Text Chat
+- Screen Sharing
+- Annotation
+- Provision to record the call and archive it
+- Provision to mute video/audio
+- Uses UDP protocol
 
 ### Setup
 Add your OpenTok credentials to the `options` hash in  `app.js`:
