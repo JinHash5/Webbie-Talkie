@@ -12,6 +12,7 @@ Web Application which allows multiple users to communicate live through a video 
 - Uses UDP protocol
 
 ### Setup
+
 Add your OpenTok credentials to the `options` hash in  `app.js`:
 ```javascript
 const options = {
