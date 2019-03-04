@@ -1,18 +1,16 @@
-## Webbie-Talkie
+# Webbie-Talkie
 
 Web Application which allows multiple users to communicate live through a video call. 
-# Features
+## Features
+ - Multi-Party Audio/Video Communication
+  - Text Chat
+  - Screen Sharing
+  - Annotation
+  - Provision to record the call and archive it.
+  - Provision to mute video/audio
+  - Uses UDP protocol
 
-- [ ] Full duplex visual & vocal communication
-- [ ] Text Chat Service
-- [ ] Screen sharing possible
-- [ ] Provision to record the call
-- [ ] Provision to mute video/audio
-- [ ] Uses UDP protocol
-- [ ] No handshake needed to start call
-
-
-
+### Setup
 Add your OpenTok credentials to the `options` hash in  `app.js`:
 ```javascript
 const options = {
@@ -30,4 +28,3 @@ $ npm install
 $ npm run build
 $ node server.js
 ```
-
