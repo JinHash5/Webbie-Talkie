@@ -13,6 +13,7 @@ Web Application which allows multiple users to communicate live through a video 
 
 ## Setup
 
+Visit [Tokbox](https://tokbox.com/) and create an account to obtain credentials.
 Add your OpenTok credentials to the `options` hash in  `app.js`:
 ```javascript
 const options = {
