@@ -1,6 +1,6 @@
 # Webbie-Talkie
+Web Application which allows multiple users to communicate live through a video call.
 
-Web Application which allows multiple users to communicate live through a video call. 
 ## Features
 
 - Multi-Party Audio/Video Communication
