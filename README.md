@@ -31,3 +31,4 @@ $ npm install
 $ npm run build
 $ node server.js
 ```
+Then just go to browser and open localhost:8080.
