@@ -11,6 +11,7 @@ Web Application which allows multiple users to communicate live through a video 
 - Provision to mute video/audio
 - Uses UDP protocol
 
+
 ## Setup
 
 Visit [Tokbox](https://tokbox.com/) and create an account to obtain credentials.
@@ -31,4 +32,4 @@ $ npm install
 $ npm run build
 $ node server.js
 ```
-Then just go to browser and open localhost:8080.
+Then just go to browser and open localhost:8080
