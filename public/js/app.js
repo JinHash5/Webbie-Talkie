@@ -9,7 +9,7 @@ if(x=="password=csi"){
     "token": "YOUR_TOKEN"
   }}
   else{
-    credentials1={
+    credentials1={// You can create it on OpenTok Website
       "apiKey": "YOUR_API_KEY",
       "sessionId": "YOUR_SESSION_ID",
       "token": "YOUR_TOKEN"
